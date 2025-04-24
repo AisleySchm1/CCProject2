@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.io.FileNotFoundException;
 import java.io.File;
 
-public class Driver //testing
+public class Driver
 {
 	public static int counter = 0;
 	
